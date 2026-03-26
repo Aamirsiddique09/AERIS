@@ -63,7 +63,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/home.png" width="250" alt="Home Screen">
+        <img src="screenshot/Screenshot Home.png" width="250" alt="Home Screen">
         <br/>
         <b>Home Screen</b>
       </td>
