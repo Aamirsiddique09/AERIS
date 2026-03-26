@@ -73,7 +73,7 @@
         <b>Smart Search</b>
       </td>
       <td align="center">
-        <img src="screenshots/details.png" width="250" alt="Weather Details">
+        <img src="sscreenshot/Screenshot deatils.png" width="250" alt="Weather Details">
         <br/>
         <b>Weather Details</b>
       </td>
