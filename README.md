@@ -68,7 +68,7 @@
         <b>Home Screen</b>
       </td>
       <td align="center">
-        <img src="screenshots/search.png" width="250" alt="Search Screen">
+        <img src="sscreenshot/Screenshot searchbar.png" width="250" alt="Search Screen">
         <br/>
         <b>Smart Search</b>
       </td>
