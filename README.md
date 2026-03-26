@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/icon/icon.png" width="120" height="120" alt="AERIS Logo">
   
   # 🌤️ AERIS
   
